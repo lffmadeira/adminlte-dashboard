@@ -1,5 +1,4 @@
-$bootstrap-icons-font-dir: "/node_modules/bootstrap-icons/font/fonts" !default;
-
+@import "_variables.scss";
 @import "/node_modules/admin-lte/src/scss/adminlte.scss";
 @import "/node_modules/bootstrap-icons/";
 @import "/node_modules/overlayscrollbars/styles/overlayscrollbars.css";
